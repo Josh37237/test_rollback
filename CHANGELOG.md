@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/Josh37237/test_rollback/compare/v1.1.0...v1.2.0) (2025-11-15)
+
+
+### Features
+
+* Werbebanner ([c6dcc06](https://github.com/Josh37237/test_rollback/commit/c6dcc06f7aba4a8d94752ffc6a08b6a62146ddf2))
+
 ## [1.1.0](https://github.com/Josh37237/test_rollback/compare/v1.0.1...v1.1.0) (2025-11-15)
 
 
