@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/Josh37237/test_rollback/compare/v1.0.1...v1.1.0) (2025-11-15)
+
+
+### Features
+
+* Dark Mode ([7075a7d](https://github.com/Josh37237/test_rollback/commit/7075a7da5849c47122500b476a90e8cda0746a8b))
+
 ## [1.0.1](https://github.com/Josh37237/test_rollback/compare/v1.0.0...v1.0.1) (2025-11-15)
 
 
