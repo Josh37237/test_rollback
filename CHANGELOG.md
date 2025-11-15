@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/Josh37237/test_rollback/compare/v1.2.0...v2.0.0) (2025-11-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* New look
+
+### Features
+
+* New look ([c38635a](https://github.com/Josh37237/test_rollback/commit/c38635a239a715e5f168d9a8fbf588b4b8b560d8))
+
 ## [1.1.0](https://github.com/Josh37237/test_rollback/compare/v1.0.1...v1.1.0) (2025-11-15)
 
 
